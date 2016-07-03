@@ -1,0 +1,3 @@
+add_lunch_combo XOS_kenzo-user
+add_lunch_combo XOS_kenzo-userdebug
+add_lunch_combo XOS_kenzo-eng
